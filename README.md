@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjones73
-- 👀 I’m interested in ...Learning more about IT and connected with IT Professionals.
+- 👀 I’m interested in ...Learning more about IT and connecting with IT Professionals.
 - 🌱 I’m currently learning ...How data impacts Talent and Sourcing trends
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Start up projects, Technical Recruiting and building cool things.
 - 📫 How to reach me ...by connecting with me on LinkedIn: https://www.linkedin.com/in/stacey-j-3b43a276/
 
 <!---
